@@ -1,4 +1,4 @@
-### Hi there 👋
+### Проекты, выполненные на курсе "Инженер по тестированию"
 
 <!--
 **NatashaPerm/NatashaPerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
